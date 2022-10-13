@@ -5,8 +5,8 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Leandro Viana",
+  "license": "MIT",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.5.1",
     "ganache-cli": "^6.12.2",
